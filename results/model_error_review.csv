@@ -1,0 +1,11 @@
+scenario_id,subject,body,category,prediction,source,likely_reason,evidence_from_email
+S35,Orientation,Is there an introduction to university IT services for new students?,General Inquiry,Account Access,Held-out test,,
+S24,PDF export,My document looks fine until I export it and the figures disappear.,Software Support,Account Access,Held-out test,,
+S14,Quick question,"Hi, The wireless signal disappears whenever I go upstairs in the hostel.",Network Issue,Software Support,Training cross-validation,,
+S38,IT help please,Can visitors use campus Wi-Fi during our exhibition? Could you help?,General Inquiry,Network Issue,Training cross-validation,,
+S25,Quick question,"Hi, Python says pandas is missing even though I installed it yesterday.",Software Support,Account Access,Training cross-validation,,
+S28,Quick question,"Hi, The slide editor says my presentation format is unsupported.",Software Support,Account Access,Training cross-validation,,
+S26,Meeting audio - follow up,"Hello IT team, The microphone works in the recorder but stays silent in the meeting app. Thanks.",Software Support,Network Issue,Training cross-validation,,
+S29,Help with ide compiler,My program builds on another PC but this IDE cannot find its compiler. Please advise.,Software Support,Account Access,Training cross-validation,,
+S33,Printing price,How much does a colour print cost at the library?,General Inquiry,Network Issue,Training cross-validation,,
+S11,IT help please,My laptop joins the campus Wi-Fi but no pages load in the library. Could you help?,Network Issue,General Inquiry,Training cross-validation,,

@@ -1,0 +1,161 @@
+subject,body,category,scenario_id
+Quick question,"Hi, The wireless signal disappears whenever I go upstairs in the hostel.",Network Issue,S14
+IT help please,Can visitors use campus Wi-Fi during our exhibition? Could you help?,General Inquiry,S38
+Quick question,"Hi, Jupyter opens but the kernel dies as soon as I run a cell.",Software Support,S21
+Holiday hours - follow up,"Hello IT team, Will the computer centre be open during the semester break? Thanks.",General Inquiry,S39
+Quick question,"Hi, The spreadsheet app closes whenever I try to save a workbook.",Software Support,S23
+Quick question,"Hi, Python says pandas is missing even though I installed it yesterday.",Software Support,S25
+Locked out - follow up,"Hello IT team, I tried signing in too many times and now my account is locked. Thanks.",Account Access,S03
+IT help please,The link to choose a new password says it expired. Could you help?,Account Access,S01
+Help with shared folder,I can open the  drive but I need edit access to our project folder. Please advise.,Account Access,S09
+Quick question,"Hi, The slide editor says my presentation format is unsupported.",Software Support,S28
+Meeting audio - follow up,"Hello IT team, The microphone works in the recorder but stays silent in the meeting app. Thanks.",Software Support,S26
+Quick question,"Hi, My device connects to Wi-Fi then gets stuck obtaining an IP address.",Network Issue,S16
+Borrow a laptop - follow up,"Hello IT team, How long can I borrow a laptop for a class presentation? Thanks.",General Inquiry,S32
+IT help please,Where can our group reserve a computer lab for a workshop? Could you help?,General Inquiry,S34
+Mail access,My university mailbox stopped accepting my password after I changed it.,Account Access,S07
+Reset link - follow up,"Hello IT team, The link to choose a new password says it expired. Thanks.",Account Access,S01
+Help with borrow a laptop,How long can I borrow a laptop for a class presentation? Please advise.,General Inquiry,S32
+Missing code,The sign-in page says it sent a code but my inbox is empty.,Account Access,S04
+IT help please,I can open the drive but I need edit access to our project folder. Could you help?,Account Access,S09
+Quick question,"Hi, The microphone works in the recorder but stays silent in the meeting app.",Software Support,S26
+Quick question,"Hi, Can visitors use campus Wi-Fi during our exhibition?",General Inquiry,S38
+IT help please,How much does a colour print cost at the library? Could you help?,General Inquiry,S33
+Spreadsheet crash,The spreadsheet app closes whenever I try to save a workbook.,Software Support,S23
+Help with holiday hours,Will the  computer centre be open during the  semester break? Please advise.,General Inquiry,S39
+IT help please,My activation invitation expired before I could set up my account. Could you help?,Account Access,S08
+IT help please,Python says pandas is missing even though I installed it yesterday. Could you help?,Software Support,S25
+IT help please,I tried signing in too many times and now my account is locked. Could you help?,Account Access,S03
+Quick question,"Hi, My activation invitation expired before I could set up my account.",Account Access,S08
+Help with hostel signal,The wireless signal disappears whenever I go upstairs in the  hostel. Please advise.,Network Issue,S14
+Ticket updates,Where can I check the progress of a request I submitted yesterday?,General Inquiry,S40
+IT help please,My university mailbox stopped accepting my password after I changed it. Could you help?,Account Access,S07
+Locked out,I tried signing in too many times and now my account is locked.,Account Access,S03
+Help with ide compiler,My program builds on another PC but this IDE cannot find its compiler. Please advise.,Software Support,S29
+Printing price,How much does a colour print cost at the library?,General Inquiry,S33
+IT help please,My laptop joins the campus Wi-Fi but no pages load in the library. Could you help?,Network Issue,S11
+Meeting audio,The microphone works in the recorder but stays silent in the meeting app.,Software Support,S26
+Quick question,"Hi, The statistics package installer stops halfway with an error.",Software Support,S22
+Spreadsheet crash - follow up,"Hello IT team, The spreadsheet app closes whenever I try to save a workbook. Thanks.",Software Support,S23
+Install error,The statistics package installer stops halfway with an error.,Software Support,S22
+Wireless name missing,None of us can see the campus network in the seminar room today.,Network Issue,S20
+Notebook kernel - follow up,"Hello IT team, Jupyter opens but the kernel dies as soon as I run a cell. Thanks.",Software Support,S21
+Citation plugin,The references toolbar disappeared from my word processor after an update.,Software Support,S30
+Shared folder - follow up,"Hello IT team, I can open the drive but I need edit access to our project folder. Thanks.",Account Access,S09
+Reset link,The link to choose a new password says it expired.,Account Access,S01
+Quick question,"Hi, How much does a colour print cost at the library?",General Inquiry,S33
+IT help please,Will the computer centre be open during the semester break? Could you help?,General Inquiry,S39
+Quick question,"Hi, The sign-in page says it sent a code but my inbox is empty.",Account Access,S04
+Slow downloads,Everyone on our floor has had very slow internet since lunch.,Network Issue,S17
+IT help please,Jupyter opens but the kernel dies as soon as I run a cell. Could you help?,Software Support,S21
+First login - follow up,"Hello IT team, My activation invitation expired before I could set up my account. Thanks.",Account Access,S08
+Quick question,"Hi, How long can I borrow a laptop for a class presentation?",General Inquiry,S32
+Quick question,"Hi, Where should I return the projector I borrowed?",General Inquiry,S36
+Presentation file,The slide editor says my presentation format is unsupported.,Software Support,S28
+No address - follow up,"Hello IT team, My device connects to Wi-Fi then gets stuck obtaining an IP address. Thanks.",Network Issue,S16
+Help with missing code,The sign-in page says it sent a code but my inbox is empty. Please advise.,Account Access,S04
+Help with locked out,I tried signing in too many times and now my account is locked. Please advise.,Account Access,S03
+IT help please,Where should I return the projector I borrowed? Could you help?,General Inquiry,S36
+Quick question,"Hi, The references toolbar disappeared from my word processor after an update.",Software Support,S30
+Help with equipment return,Where should I return the  projector I borrowed? Please advise.,General Inquiry,S36
+Hostel signal,The wireless signal disappears whenever I go upstairs in the hostel.,Network Issue,S14
+Help with slow downloads,Everyone on our floor has had very slow internet since lunch. Please advise.,Network Issue,S17
+Lab booking,Where can our group reserve a computer lab for a workshop?,General Inquiry,S34
+Help with notebook kernel,Jupyter opens but the  kernel dies as soon as I run a cell. Please advise.,Software Support,S21
+Help with no address,My device connects to Wi-Fi then gets stuck obtaining an IP address. Please advise.,Network Issue,S16
+Help with library connection,My laptop joins the  campus Wi-Fi but no pages load in the  library. Please advise.,Network Issue,S11
+Quick question,"Hi, Where can I check the progress of a request I submitted yesterday?",General Inquiry,S40
+Guest connection,The guest Wi-Fi welcome page never loads on either of our phones.,Network Issue,S18
+Help with install error,The statistics package installer stops halfway with an error. Please advise.,Software Support,S22
+IT help please,My program builds on another PC but this IDE cannot find its compiler. Could you help?,Software Support,S29
+Mail access - follow up,"Hello IT team, My university mailbox stopped accepting my password after I changed it. Thanks.",Account Access,S07
+Missing code - follow up,"Hello IT team, The sign-in page says it sent a code but my inbox is empty. Thanks.",Account Access,S04
+IDE compiler,My program builds on another PC but this IDE cannot find its compiler.,Software Support,S29
+Python import - follow up,"Hello IT team, Python says pandas is missing even though I installed it yesterday. Thanks.",Software Support,S25
+Equipment return,Where should I return the projector I borrowed?,General Inquiry,S36
+Slow downloads - follow up,"Hello IT team, Everyone on our floor has had very slow internet since lunch. Thanks.",Network Issue,S17
+Citation plugin - follow up,"Hello IT team, The references toolbar disappeared from my word processor after an update. Thanks.",Software Support,S30
+Notebook kernel,Jupyter opens but the kernel dies as soon as I run a cell.,Software Support,S21
+Borrow a laptop,How long can I borrow a laptop for a class presentation?,General Inquiry,S32
+IT help please,My friend can sign in on this PC but it rejects my username. Could you help?,Account Access,S06
+Help with software list,Which statistics packages are available for students to use? Please advise.,General Inquiry,S37
+IT help please,The spreadsheet app closes whenever I try to save a workbook. Could you help?,Software Support,S23
+Quick question,"Hi, My laptop joins the campus Wi-Fi but no pages load in the library.",Network Issue,S11
+Help with reset link,The link to choose a new password says it expired. Please advise.,Account Access,S01
+Help with lab login,My friend can sign in on this PC but it rejects my username. Please advise.,Account Access,S06
+Software list - follow up,"Hello IT team, Which statistics packages are available for students to use? Thanks.",General Inquiry,S37
+Help with wireless name missing,None of us can see the  campus network in the  seminar room today. Please advise.,Network Issue,S20
+Wireless name missing - follow up,"Hello IT team, None of us can see the campus network in the seminar room today. Thanks.",Network Issue,S20
+Help with python import,Python says pandas is missing even though I installed it yesterday. Please advise.,Software Support,S25
+Ticket updates - follow up,"Hello IT team, Where can I check the progress of a request I submitted yesterday? Thanks.",General Inquiry,S40
+Equipment return - follow up,"Hello IT team, Where should I return the projector I borrowed? Thanks.",General Inquiry,S36
+Python import,Python says pandas is missing even though I installed it yesterday.,Software Support,S25
+Help with mail access,My university mailbox stopped accepting my password after I changed it. Please advise.,Account Access,S07
+Help with lab booking,Where can our group reserve a computer lab for a workshop? Please advise.,General Inquiry,S34
+Presentation file - follow up,"Hello IT team, The slide editor says my presentation format is unsupported. Thanks.",Software Support,S28
+Help with citation plugin,The references toolbar disappeared from my word processor after an update. Please advise.,Software Support,S30
+IT help please,The microphone works in the recorder but stays silent in the meeting app. Could you help?,Software Support,S26
+Quick question,"Hi, Everyone in my group can open the course except me. Mine says permission denied.",Account Access,S05
+Quick question,"Hi, Everyone on our floor has had very slow internet since lunch.",Network Issue,S17
+IT help please,My device connects to Wi-Fi then gets stuck obtaining an IP address. Could you help?,Network Issue,S16
+IT help please,Everyone on our floor has had very slow internet since lunch. Could you help?,Network Issue,S17
+Help with printing price,How much does a colour print cost at the  library? Please advise.,General Inquiry,S33
+Help with guest connection,The guest Wi-Fi welcome page never loads on either of our phones. Please advise.,Network Issue,S18
+Hostel signal - follow up,"Hello IT team, The wireless signal disappears whenever I go upstairs in the hostel. Thanks.",Network Issue,S14
+Library connection - follow up,"Hello IT team, My laptop joins the campus Wi-Fi but no pages load in the library. Thanks.",Network Issue,S11
+VPN drops,My campus VPN disconnects every few minutes even while I am working.,Network Issue,S19
+Help with vpn drops,My campus VPN disconnects every few minutes even while I am working. Please advise.,Network Issue,S19
+Quick question,"Hi, I can open the drive but I need edit access to our project folder.",Account Access,S09
+VPN drops - follow up,"Hello IT team, My campus VPN disconnects every few minutes even while I am working. Thanks.",Network Issue,S19
+Help with ticket updates,Where can I check the  progress of a request I submitted yesterday? Please advise.,General Inquiry,S40
+IT help please,How long can I borrow a laptop for a class presentation? Could you help?,General Inquiry,S32
+Lab login,My friend can sign in on this PC but it rejects my username.,Account Access,S06
+Software list,Which statistics packages are available for students to use?,General Inquiry,S37
+IT help please,The references toolbar disappeared from my word processor after an update. Could you help?,Software Support,S30
+Online lecture - follow up,"Hello IT team, The call keeps dropping in our lecture hall. It works on mobile data. Thanks.",Network Issue,S12
+IT help please,The sign-in page says it sent a code but my inbox is empty. Could you help?,Account Access,S04
+IT help please,My campus VPN disconnects every few minutes even while I am working. Could you help?,Network Issue,S19
+No address,My device connects to Wi-Fi then gets stuck obtaining an IP address.,Network Issue,S16
+Quick question,"Hi, My program builds on another PC but this IDE cannot find its compiler.",Software Support,S29
+Course access,Everyone in my group can open the course except me. Mine says permission denied.,Account Access,S05
+Quick question,"Hi, None of us can see the campus network in the seminar room today.",Network Issue,S20
+Quick question,"Hi, My university mailbox stopped accepting my password after I changed it.",Account Access,S07
+IT help please,The slide editor says my presentation format is unsupported. Could you help?,Software Support,S28
+Quick question,"Hi, I tried signing in too many times and now my account is locked.",Account Access,S03
+IT help please,The wireless signal disappears whenever I go upstairs in the hostel. Could you help?,Network Issue,S14
+Guest connection - follow up,"Hello IT team, The guest Wi-Fi welcome page never loads on either of our phones. Thanks.",Network Issue,S18
+Quick question,"Hi, My campus VPN disconnects every few minutes even while I am working.",Network Issue,S19
+Help with course access,Everyone in my group can open the  course except me. Mine says permission denied. Please advise.,Account Access,S05
+IT help please,None of us can see the campus network in the seminar room today. Could you help?,Network Issue,S20
+IT help please,Which statistics packages are available for students to use? Could you help?,General Inquiry,S37
+Holiday hours,Will the computer centre be open during the semester break?,General Inquiry,S39
+Quick question,"Hi, The guest Wi-Fi welcome page never loads on either of our phones.",Network Issue,S18
+Quick question,"Hi, Which statistics packages are available for students to use?",General Inquiry,S37
+Help with first login,My activation invitation expired before I could set up my account. Please advise.,Account Access,S08
+Lab booking - follow up,"Hello IT team, Where can our group reserve a computer lab for a workshop? Thanks.",General Inquiry,S34
+IT help please,The guest Wi-Fi welcome page never loads on either of our phones. Could you help?,Network Issue,S18
+Guest policy,Can visitors use campus Wi-Fi during our exhibition?,General Inquiry,S38
+Shared folder,I can open the drive but I need edit access to our project folder.,Account Access,S09
+Quick question,"Hi, The link to choose a new password says it expired.",Account Access,S01
+Help with spreadsheet crash,The spreadsheet app closes whenever I try to save a workbook. Please advise.,Software Support,S23
+Quick question,"Hi, The call keeps dropping in our lecture hall. It works on mobile data.",Network Issue,S12
+IT help please,The statistics package installer stops halfway with an error. Could you help?,Software Support,S22
+Quick question,"Hi, Will the computer centre be open during the semester break?",General Inquiry,S39
+Quick question,"Hi, Where can our group reserve a computer lab for a workshop?",General Inquiry,S34
+Library connection,My laptop joins the campus Wi-Fi but no pages load in the library.,Network Issue,S11
+IDE compiler - follow up,"Hello IT team, My program builds on another PC but this IDE cannot find its compiler. Thanks.",Software Support,S29
+IT help please,Where can I check the progress of a request I submitted yesterday? Could you help?,General Inquiry,S40
+Help with meeting audio,The microphone works in the  recorder but stays silent in the  meeting app. Please advise.,Software Support,S26
+Help with online lecture,The call keeps dropping in our lecture hall. It works on mobile data. Please advise.,Network Issue,S12
+Online lecture,The call keeps dropping in our lecture hall. It works on mobile data.,Network Issue,S12
+Course access - follow up,"Hello IT team, Everyone in my group can open the course except me. Mine says permission denied. Thanks.",Account Access,S05
+Install error - follow up,"Hello IT team, The statistics package installer stops halfway with an error. Thanks.",Software Support,S22
+IT help please,Everyone in my group can open the course except me. Mine says permission denied. Could you help?,Account Access,S05
+Help with presentation file,The slide editor says my presentation format is unsupported. Please advise.,Software Support,S28
+Quick question,"Hi, My friend can sign in on this PC but it rejects my username.",Account Access,S06
+Guest policy - follow up,"Hello IT team, Can visitors use campus Wi-Fi during our exhibition? Thanks.",General Inquiry,S38
+First login,My activation invitation expired before I could set up my account.,Account Access,S08
+IT help please,The call keeps dropping in our lecture hall. It works on mobile data. Could you help?,Network Issue,S12
+Help with guest policy,Can visitors use campus Wi-Fi during our exhibition? Please advise.,General Inquiry,S38
+Lab login - follow up,"Hello IT team, My friend can sign in on this PC but it rejects my username. Thanks.",Account Access,S06
+Printing price - follow up,"Hello IT team, How much does a colour print cost at the library? Thanks.",General Inquiry,S33
