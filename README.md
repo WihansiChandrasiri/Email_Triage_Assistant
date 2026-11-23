@@ -43,4 +43,4 @@ The completed explanations are in `results/model_error_review.csv`. Rerunning th
 
 ## Project status
 
-The classification and evaluation stage is complete. Drafting replies and requiring a staff member to review and approve them before sending remain to be implemented and evaluated.
+The classification and evaluation stage is complete. The notebook also demonstrates category-based reply drafting and a manual approve, edit, or reject decision. No email is sent automatically. 
